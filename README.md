@@ -24,10 +24,6 @@ Full-Stack Flipkart with Admin Dashboard & Paytm Payment Gateway.
 
 ![paytm](https://img.shields.io/badge/Paytm-002970?style=for-the-badge&logo=paytm&logoColor=00BAF2)
 
-**Cloud Storage:** [Cloudinary](https://cloudinary.com/)
-
-**Mail Service:** [Sendgrid](https://sendgrid.com/)
-
 ## 🚀 Features
 
 **User Account Management**
@@ -72,7 +68,7 @@ Full-Stack Flipkart with Admin Dashboard & Paytm Payment Gateway.
 - Review Management: 📜 Admins can view and delete product reviews.
 - Stock Management: 📉 Product stock is automatically decreased upon shipment.
 
-## Sneak Peek of Admin Dashboard 🙈 :
+## Sneak Peek of Admin Dashboard :
 ![Capture](https://user-images.githubusercontent.com/64949957/153995268-0cb769b9-e0ee-48ea-83c1-09b881df4101.PNG)
 
 <table>
@@ -85,10 +81,3 @@ Full-Stack Flipkart with Admin Dashboard & Paytm Payment Gateway.
     <td><img src="https://user-images.githubusercontent.com/64949957/153996577-57b1a82d-064a-49dc-9055-e2bceb854ab2.PNG" alt="mockups" /></td>
   </tr>
 </table>
-
-<h2>📬 Contact</h2>
-
-Feel free to reach me through the below handles if you'd like to contact me.
-
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jigar-sablee)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jigarsable.dev)
